@@ -1,0 +1,21 @@
+{
+	"config_name": "Default-PNG-120PPI",
+	"grid_visible": true,
+	"grid_not_visible": false,
+	"lighting_visible": true,
+	"lighting_not_visible": false,
+	"ppi_export": 120,
+	"export_quality": 95,
+	"export_delay": 10,
+	"open_folder": true,
+	"filename_ppi": true,
+	"filename_grid": true,
+	"filename_lighting": true,
+	"filename_level_base": true,
+	"filename_level_overlay": true,
+	"filename_resolution": true,
+	"filename_grid_size": true,
+	"export_formats": [
+		"PNG"
+	]
+}
